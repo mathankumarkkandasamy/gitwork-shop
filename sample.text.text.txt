@@ -1,4 +1,8 @@
 git hub
 sample
 editable
+git of c 
+hello
+>>>>>>>>>>>editable
+
 
